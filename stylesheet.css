@@ -1,0 +1,28 @@
+table, th, tr, td{
+	border:2px solid black; 
+}
+td, th{
+	width: 35px;
+	height: 35px;
+	text-align: center; 
+}
+.blank{ 
+	background-color: black;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.first{
+	background-color: #B4FAB1;
+	}
+.second{
+	background-color: #CBCFCA; 
+}
+.third{
+	background-color: #CBCFCA; 
+}
+.black{
+	background-color: black;
+	padding-left: 1px;
+	padding-right: 1px;
+}
+
