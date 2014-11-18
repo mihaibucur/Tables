@@ -25,4 +25,14 @@ td, th{
 	padding-left: 1px;
 	padding-right: 1px;
 }
-
+.odd-cell{
+	background-color: black;
+	padding-left: 2px;
+	padding-right: 2px;
+	color: red;
+}
+.even-cell{
+	padding-left: 2px;
+	padding-right: 2px;
+	color: red;
+}
